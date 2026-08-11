@@ -22,7 +22,8 @@ Sigue estos pasos cuidadosamente para reiniciar el contador de las almohadillas 
 1. **Ejecutar como Administrador:**
    - Descarga y extrae el archivo `.zip` del Adjustment Program correspondiente a tu modelo.
    - Pagina para descargar el programa: https://specialistechnology.com/usar-adjustment-program/
-   - Opción: https://camosystemsreset.com/descargas/
+   - Opción 1: https://camosystemsreset.com/descargas/
+   - Opción 2: https://adjustprogram.blogspot.com/2013/05/reset-epson.html
    - Haz clic derecho sobre el archivo `AdjProg.exe` y selecciona **Ejecutar como Administrador**.
 
 2. **Seleccionar Modelo y Puerto:**
